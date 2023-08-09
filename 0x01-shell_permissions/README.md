@@ -17,5 +17,6 @@ Added the file 11-directories_permissions, it adds execute permission to all sub
 Added the file 12-directory_permissions, it creates a directory called my_dir with permissions 751 in the working directory.
 Added the file 13-change_group, it changes the group owner to 'school' for the file 'hello'.
 Added the file 100-change_owner_and_group, it changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-Added the file 101-symbolic_link_permissions, it changes the owner and the group owner of _hello to vincent and staff respectively..The file _hello is in the working directory. The file _hello is a symbolic link.
+Added the file 101-symbolic_link_permissions, it changes the owner and the group owner of _hello to vincent and staff respectively..The file _hello is in the working directory. The file _hello is a symbolic link._
+Added the file 102-if_only, it changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
