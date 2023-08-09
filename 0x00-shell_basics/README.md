@@ -14,4 +14,5 @@ Added the file 9-firstdirdeletion, it deletes the file my_first_directory.
 Added the file 10-back, it changes the working directory to the previous one.
 Added the file 11-lists, it lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Added the file 12-file_type, it prints the type of the file named iamafile.
+Added the file 13-symbolic_link, it creates a symbolic link to /bin/ls, named __ls__.
  
