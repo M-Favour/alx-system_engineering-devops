@@ -6,3 +6,4 @@ Added the file 0-iam_betty, it changes the current user to betty.
 Added the file 1-who_am_i, it prints out the current user's name.
 Added the file 2-groups, it prints all the groups that the user is in.
 Added the file 3-new_owner, it changes the owner of the 'hello' file to betty.
+Added the file 4-empty, it creates an empty file named hello.
