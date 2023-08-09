@@ -15,5 +15,6 @@ Added the file 9-John_Doe, it sets the mode of the file hello to this: -rwxr-x-w
 Added the file 10-mirror_permissions, it sets the mode of the file hello the same as olleh’s mode.
 Added the file 11-directories_permissions, it adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files will not be changed.
 Added the file 12-directory_permissions, it creates a directory called my_dir with permissions 751 in the working directory.
-Added the fioe 13-change_group, it changes the group owner to 'school' for the file 'hello'.
+Added the file 13-change_group, it changes the group owner to 'school' for the file 'hello'.
+Added the file 100-change_owner_and_group, it changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
