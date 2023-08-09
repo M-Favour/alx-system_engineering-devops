@@ -8,4 +8,5 @@ Added the file 3-listfiles, it prints the list of the items in the working direc
 Added the file 4-listmorefiles, it prints the list of the items in the working directory including the hidden files (in the long format).
 Added the file 5-listfilesdigitonly, it displays the contents (including hidden files) of the working directory in the long format with the user and group ids in digits.
 Added the file 6-firstdirectory, it creates a directory named my_first_directory in the /tmp/ directory.
+Added the file 7-movethatfile, it moves the file betty from /tmp/ to /tmp/my_first_directory.
 
