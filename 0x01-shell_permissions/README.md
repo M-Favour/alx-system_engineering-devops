@@ -10,3 +10,4 @@ Added the file 4-empty, it creates an empty file named hello.
 Added the file 5-execute, it creates the file 'hello' which can only be executed by the owner of the file.
 Added the file 6-multiple_permissions, it adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 Added the file 7-everybody, it adds execution permission to the owner, the group owner and the other users, to the file hello.
+Added the file 8-James_Bond, it  sets the permission to the file hello to the following: owner and group have no permission at all, other users have all the permissions.
