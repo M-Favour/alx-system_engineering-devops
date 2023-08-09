@@ -14,3 +14,5 @@ Added the file 8-James_Bond, it sets the permission to the file hello to the fol
 Added the file 9-John_Doe, it sets the mode of the file hello to this: -rwxr-x-wx
 Added the file 10-mirror_permissions, it sets the mode of the file hello the same as olleh’s mode.
 Added the file 11-directories_permissions, it adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files will not be changed.
+Added the file 12-directory_permissions, it creates a directory called my_dir with permissions 751 in the working directory.
+
