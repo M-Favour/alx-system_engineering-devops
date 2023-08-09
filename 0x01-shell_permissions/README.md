@@ -12,3 +12,4 @@ Added the file 6-multiple_permissions, it adds execute permission to the owner a
 Added the file 7-everybody, it adds execution permission to the owner, the group owner and the other users, to the file hello.
 Added the file 8-James_Bond, it sets the permission to the file hello to the following: owner and group have no permission at all, other users have all the permissions.
 Added the file 9-John_Doe, it sets the mode of the file hello to this: -rwxr-x-wx
+Added the file 10-mirror_permissions, it sets the mode of the file hello the same as olleh’s mode.
